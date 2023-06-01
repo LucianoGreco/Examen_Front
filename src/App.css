@@ -1,0 +1,18 @@
+#root {
+
+  display: flex;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.tarjeta{
+  background-image: url("https://i.pinimg.com/originals/09/f0/0a/09f00a43dbc810c20b9f188c7edd13dc.jpg");
+  width: 600px;
+  height: 600px;
+  border: 2px solid #fff;
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+}
